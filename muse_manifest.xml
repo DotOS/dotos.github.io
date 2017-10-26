@@ -1,86 +1,101 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dotos.github.io" resolutions="1x" timestamp="1509021456601">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dotos.github.io" resolutions="1x" timestamp="1509025473172">
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="3769753880" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="332202755" seo="true" mt="1509025435622" redirect="true"/>
+  </folder>
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="80761675" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="490477755" seo="true" mt="1509021371491" redirect="true"/>
+    <file name="index.html" crc="3919290105" seo="true" mt="1509024311356" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4233371317"/>
     <file name="index.css" crc="3775344689" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
-    <file name="museutils.js" crc="3803043152" ref="index:phone>index"/>
-    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:phone>index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:phone>index"/>
-    <file name="webpro.js" crc="242022427" ref="index:phone>index"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index:phone>index"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index:phone>index"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index:phone>index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index:tablet>index"/>
+    <file name="museutils.js" crc="3803043152" ref="index:phone>index:tablet>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index:tablet>index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:phone>index:tablet>index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:phone>index:tablet>index"/>
+    <file name="webpro.js" crc="242022427" ref="index:phone>index:tablet>index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:phone>index:tablet>index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:phone>index:tablet>index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:phone>index:tablet>index"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index:phone>index"/>
+    <file name="require.js" crc="4157109226" ref="index:phone>index:tablet>index"/>
   </folder>
   <folder name="images">
-    <file name="minimal.png" crc="250385498" seo="true" ref="index:phone>index">
+    <file name="minimal.png" crc="250385498" seo="true" ref="index:phone>index:tablet>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="screener_1508862245947.png" crc="293595066" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screener_1508862181172.png" crc="341361698" seo="true" ref="index:phone>index">
+    <file name="screener_1508862245947.png" crc="3853513850" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screener_1508862181172.png" crc="14153439" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screener_1508862431143.png" crc="409821218" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newt.png" crc="4136868064" seo="true" ref="index:phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screener_1508862431143.png" crc="3997079911" seo="true" ref="index">
+    <file name="56621267-efficiency-icon-vector-flat-icon-isolated-on-the-white-background-editable-eps-file-vector-illustrat.png" crc="4205808216" seo="true" ref="index:phone>index:tablet>index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="newt.png" crc="351506248" seo="true" ref="index:phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="56621267-efficiency-icon-vector-flat-icon-isolated-on-the-white-background-editable-eps-file-vector-illustrat.png" crc="4205808216" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="29705874 (1).png" crc="397062076" seo="true" ref="index:phone>index">
+    <file name="29705874 (1).png" crc="4154001993" seo="true" ref="index:phone>index:tablet>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="astro.png" crc="4285920107" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="newt - copy (2).png" crc="3948057724" seo="true" ref="index:phone>index">
+    <file name="astro.png" crc="4285920107" seo="true" ref="index:phone>index:tablet>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="newt - copy (3).png" crc="4059277115" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="newt - copy (5) - copy.png" crc="266987505" seo="true" ref="index:phone>index">
+    <file name="newt - copy (2).png" crc="3948057724" seo="true" ref="index:phone>index:tablet>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="newt - copy (4) - copy.png" crc="3982866508" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="newt - copy (4).png" crc="279811494" seo="true" ref="index:phone>index">
+    <file name="newt - copy (3).png" crc="4039233919" seo="true" ref="index:phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dotos.png" crc="533636129" seo="true" ref="index">
+    <file name="newt - copy (5) - copy.png" crc="3768710926" seo="true" ref="index:phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newt - copy (4) - copy.png" crc="204965603" seo="true" ref="index:phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newt - copy (4).png" crc="3928041792" seo="true" ref="index:phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dotos.png" crc="533636129" seo="true" ref="tablet>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="planet.png" crc="470648683" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="planet2.png" crc="4228640976" seo="true" ref="phone>index:index">
+    <file name="planet2.png" crc="4228640976" seo="true" ref="phone>index:index:tablet>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -91,24 +106,48 @@
     <file name="dotos294x96.png" crc="313303212" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screener_1508862431143195x350.png" crc="339395238" seo="true" ref="phone>index">
+    <file name="screener_1508862431143195x350.png" crc="453370345" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="planet194x194.png" crc="3822966702" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="dotspace@2x - copy.png" crc="4283713827" seo="true" ref="phone>index">
+    <file name="dotspace@2x - copy.png" crc="4264477798" seo="true" ref="tablet>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="favicon.ico" crc="4070957684" ref="index"/>
-    <file name="efficient.png" crc="4130414320" seo="true" ref="index:phone>index">
+    <file name="efficient.png" crc="4130414320" seo="true" ref="index:phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="powerfull.png" crc="4151753256" seo="true" ref="index:phone>index">
+    <file name="powerfull.png" crc="4151753256" seo="true" ref="index:phone>index:tablet>index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dotspace@2x - copy380x623.png" crc="216323728" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screener_1508862245947229x413.png" crc="3878166659" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screener_1508862181172206x372.png" crc="4117126734" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dotos482x157.png" crc="533636129" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screener_1508862245947262x472.png" crc="49885091" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screener_1508862181172262x472.png" crc="331612634" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screener_1508862431143262x472.png" crc="3986290142" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3949541938" seo="true" mt="1509021452432" redirect="true"/>
+  <file name="index.html" crc="4155665677" seo="true" mt="1509025467834" redirect="true"/>
 </manifest>

@@ -6,17 +6,9 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://dotos.github.io/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://dotos.github.io/tablet/index.html"/>
     <image:image>
       <image:loc>http://dotos.github.io/images/minimal.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dotos.github.io/images/screener_1508862245947.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dotos.github.io/images/screener_1508862181172.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dotos.github.io/images/screener_1508862431143.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dotos.github.io/images/newt.png</image:loc>
@@ -46,9 +38,6 @@
       <image:loc>http://dotos.github.io/images/newt%20-%20copy%20(4).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dotos.github.io/images/dotos.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dotos.github.io/images/planet.png</image:loc>
     </image:image>
     <image:image>
@@ -62,6 +51,18 @@
     </image:image>
     <image:image>
       <image:loc>http://dotos.github.io/images/powerfull.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dotos.github.io/images/dotos482x157.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dotos.github.io/images/screener_1508862245947262x472.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dotos.github.io/images/screener_1508862181172262x472.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dotos.github.io/images/screener_1508862431143262x472.png</image:loc>
     </image:image>
   </url>
 </urlset>
